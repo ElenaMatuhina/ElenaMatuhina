@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm frontend developer
 ----------------------
 
-* ✉️  You can contact me at [elenamatuhina29@gmail.com](mailto:elenamatuhina29@gmail.com)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-elena-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@eeeme4) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenamatuhina29@gmail.com)
 
 ### Skills
 
