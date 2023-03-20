@@ -5,7 +5,7 @@ I'm frontend developer
 ----------------------
 
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@eeeme4) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenamatuhina29@gmail.com)
-* 💻  LeetCode https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg
+* 💻  LeetCode [https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg](https://img.shields.io/endpoint?color=white&label=LeetCode&logo=LeetCode&url=https%3A%2F%2Fleetcode.com%2FjollyFox%2F)
 
 ### Skills
 
