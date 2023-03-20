@@ -6,7 +6,7 @@ I'm frontend developer
 
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@eeeme4) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenamatuhina29@gmail.com)
 * hh 
-* 💻  LeetCode [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-gray?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/jollyFox/) 
+* 💻  LeetCode [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-lightgrey?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/jollyFox/) 
 
 
 
