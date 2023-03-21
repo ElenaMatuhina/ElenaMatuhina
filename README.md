@@ -2,12 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 I'm frontend developer <img src="icons8-разработчик.gif" width="50"> 
-----------------------
+============================================================================================================================
 
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@eeeme4) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenamatuhina29@gmail.com)
 * 💼   CV  [![HH Badge](https://img.shields.io/badge/-HH-white?style=flat&logo=HH&logoColor=red&color=red)](https://vlasiha50.hh.ru/resume/f4bf6b00ff08dccf350039ed1f787532656a70) 
 * 💻   LeetCode [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-lightgrey?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/jollyFox/) 
-
+*
+============================================================================================================================
 
 
 
@@ -32,6 +33,8 @@ I'm frontend developer <img src="icons8-разработчик.gif" width="50">
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+============================================================================================================================
 
 
 ### Socials
