@@ -10,7 +10,13 @@ I'm frontend developer <img src="icons8-разработчик.gif" width="50">
 
 
 
-### Skills
+
+
+
+### Skills <img src="icons8-настройки-3.gif" width="50"> 
+
+
+
 
 
 <p align="left">
