@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lena 
 ============================================================================================================================
 
-I'm frontend developer[](https://www.gifki.org/data/media/1215/shesterenka-animatsionnaya-kartinka-0009.gif)
+I'm frontend developer[](https://cdn.dribbble.com/users/707433/screenshots/6720160/gears2.gif)
 ----------------------
 
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@eeeme4) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenamatuhina29@gmail.com)
