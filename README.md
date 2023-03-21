@@ -2,8 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 I'm frontend developer
-
-### <img src="https://cdn.dribbble.com/users/707433/screenshots/6720160/gears2.gif" width="50"> 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 ----------------------
 
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@eeeme4) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenamatuhina29@gmail.com)
