@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lena [](https://icons8.ru/icon/H6C79JoP90DH/)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lena [](https://www.gifki.org/data/media/1215/shesterenka-animatsionnaya-kartinka-0009.gif)
 ============================================================================================================================
 
 I'm frontend developer
