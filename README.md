@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@eeeme4) [![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenamatuhina29@gmail.com)
 * 💼   CV  [![HH Badge](https://img.shields.io/badge/-HH-white?style=flat&logo=HH&logoColor=red&color=red)](https://vlasiha50.hh.ru/resume/f4bf6b00ff08dccf350039ed1f787532656a70) 
-* 💻   LeetCode [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-lightgrey?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/jollyFox/) 
+* 💻   LeetCode [![LeetCode Badge](https://img.shields.io/badge/-LEETCODE-lightgrey?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/jollyFox/) 
 
 
 
