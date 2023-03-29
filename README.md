@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lena 
 ============================================================================================================================
 
-## I'm frontend developer <img src="icons8-разработчик.gif" width="50"> 
+## I'm frontend developer <img src="developer.gif" width="50"> 
 
 
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@eeeme4) [![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=Gmail&logoColor=white)](mailto:elenamatuhina29@gmail.com)
@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-## Skills and Tools <img src="icons8-настройки-3.gif" width="50"> 
+## Skills and Tools <img src="settings.gif" width="50"> 
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -39,7 +39,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-## Socials <img src="icons8-облако-диалога-с-точками.gif" width="50">
+## Socials <img src="social.gif" width="50">
 
 <p align="left"> <a href="https://www.github.com/ElenaMatuhina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://t.me/@eeeme4" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" /></a></p>
