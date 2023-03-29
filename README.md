@@ -16,10 +16,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/React-323330.svg?&style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-%23121011.svg?&style=flat&logo=redux&logoColor=purple&color=e1e5f2)&nbsp;
+![React](https://img.shields.io/badge/REACT-323330.svg?&style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/REDUX-%23121011.svg?&style=flat&logo=redux&logoColor=purple&color=e1e5f2)&nbsp;
 ![MobX](https://img.shields.io/badge/MOBX-%23121011.svg?&style=flat&logo=mobx&logoColor=white) &nbsp;
-![Next](https://img.shields.io/badge/Next-%23121011.svg?&style=flat&logo=nextjs&logoColor=purple&color=blue) &nbsp;
+![Next](https://img.shields.io/badge/NEXT-%23121011.svg?&style=flat&logo=nextjs&logoColor=purple&color=blue) &nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
